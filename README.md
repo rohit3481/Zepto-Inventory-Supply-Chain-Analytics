@@ -2,6 +2,8 @@
 
 <img width="1429" height="807" alt="dashboard" src="https://github.com/user-attachments/assets/98de595d-b3f6-48d7-ac61-8c2741c3f08a" />
 
+End-to-end inventory and supply chain analytics solution built using SQL Server and Power BI.
+
 
 This project presents an end-to-end inventory and supply chain analytics solution built using Zepto's product inventory dataset. SQL Server was used for data cleaning and business analysis, while Power BI was used to build an interactive dashboard for visualizing key inventory and revenue metrics.
 
