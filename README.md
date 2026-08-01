@@ -1,5 +1,8 @@
 # 🛒 Zepto Inventory & Supply Chain Analytics
 
+<img width="1429" height="807" alt="dashboard" src="https://github.com/user-attachments/assets/98de595d-b3f6-48d7-ac61-8c2741c3f08a" />
+
+
 This project presents an end-to-end inventory and supply chain analytics solution built using Zepto's product inventory dataset. SQL Server was used for data cleaning and business analysis, while Power BI was used to build an interactive dashboard for visualizing key inventory and revenue metrics.
 
 The objective is to transform raw inventory data into meaningful business insights that support inventory optimization, pricing analysis, and operational decision-making.
