@@ -141,5 +141,57 @@ The dashboard provides an interactive overview of inventory performance and busi
 - Top Revenue Generating Products
 
 <img width="1429" height="807" alt="dashboard" src="https://github.com/user-attachments/assets/c8833bb3-ce09-4752-8270-2066f6fef1e3" />
-)
 
+---
+
+# 📊 Key Insights
+
+- The inventory dataset contains **2,900+ products** across multiple retail categories.
+- A small number of categories contribute the majority of the overall inventory value and revenue opportunity.
+- Approximately **12% of products** are currently out of stock, indicating potential replenishment opportunities.
+- Discount strategies vary significantly across product categories, reflecting different pricing approaches.
+- High-value products contribute disproportionately to overall revenue potential, making them important for inventory planning.
+
+---
+
+# 💡 Business Recommendations
+
+- Prioritize replenishment for high-revenue products that are currently out of stock.
+- Monitor inventory levels of fast-moving categories to reduce stock-out risk.
+- Review discount strategies for categories with lower revenue contribution.
+- Focus inventory investment on products with higher business value and demand.
+- Use interactive dashboards to monitor inventory KPIs and support operational decision-making.
+
+---
+
+# 📁 Repository Contents
+
+```
+📦 Zepto-Inventory-Supply-Chain-Analytics
+│── 📄 README.md
+│── 📊 Dashboard.png
+│── 📈 Zepto Inventory & Supply Chain Analytics.pbix
+│── 💾 SQL Analysis.sql
+│── 📂 zepto.csv
+```
+
+---
+
+# 🚀 Skills Demonstrated
+
+- SQL Server
+- Power BI
+- Power Query
+- DAX
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Business Intelligence
+- Inventory Analytics
+- Supply Chain Analytics
+- Dashboard Development
+
+---
+
+# ✅ Conclusion
+
+This project demonstrates an end-to-end analytics workflow using SQL Server and Power BI to analyze retail inventory data and build an interactive business dashboard. The insights generated can support inventory optimization, pricing decisions, and operational planning, while showcasing practical analytical skills relevant to Business Analyst, Supply Chain Analyst, and Operations Analyst roles.
